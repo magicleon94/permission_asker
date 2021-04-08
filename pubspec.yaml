@@ -1,6 +1,6 @@
 name: permission_asker
 description: A wrapper for permission_handler which lifts some of the boilerplate needed to handle permissions in our apps.
-version: 1.0.0
+version: 1.0.0+1
 homepage: https://github.com/magicleon94/permission_asker
 
 environment:

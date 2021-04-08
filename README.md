@@ -14,7 +14,7 @@ In addition to everything that's provided with [permission_handler](https://pub.
 * a `PermissionAskerBuilder`class which allows to build a widget according to the status of a list of permissions
 
 ## Setup
-Check [here] for setting up your permissions.
+Check [here](https://pub.dev/packages/permission_handler#setup) for setting up your permissions.
 
 ## Usage
 Here's an example on how you can use the `PermissionAskerBuilder` widget
